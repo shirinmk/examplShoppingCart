@@ -1,0 +1,7 @@
+creating folder with all stuff
+git init
+git add .
+   git push --set-upstream https://github.com/shirinmk/examplShoppingCart.git master
+   go to settings/ github pages/ source master baranch to make it availabel on internet
+   attion for path for your url page index
+   https://shirinmk.github.io/examplShoppingCart/root/index.html
