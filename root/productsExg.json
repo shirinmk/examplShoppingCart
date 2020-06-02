@@ -1,0 +1,105 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "berries",
+          "price": 3.99,
+          "image": {
+            "fields": {
+              "file": { "url": "./images/shopping_cart/berries.jpg" }
+            }
+          }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "mushroom",
+          "price": 1.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./images/shopping_cart/mashroom.jpg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "pumpkin",
+          "price": 3.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./images/shopping_cart/pumpkin.jpg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "lemon",
+          "price": 0.99,
+          "image": {
+            "fields": {
+              "file": { "url": "./images/shopping_cart/lemon.jpg" }
+            }
+          }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "carrot",
+          "price": 1.99,
+          "image": {
+            "fields": {
+              "file": { "url": "./images/shopping_cart/carrot.jpg" }
+            }
+          }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "pepper",
+          "price": 1.99,
+          "image": {
+            "fields": {
+              "file": { "url": "./images/shopping_cart/pepper.jpg" }
+            }
+          }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "egg",
+          "price": 7.99,
+          "image": {
+            "fields": {
+              "file": { "url": "./images/shopping_cart/egg.jpg" }
+            }
+          }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "orange",
+          "price": 3.99,
+          "image": {
+            "fields": {
+              "file": { "url": "./images/shopping_cart/orange.jpg" }
+            }
+          }
+        }
+      }
+    ]
+  }
+  
